@@ -3,7 +3,7 @@ Sono stati usati i seguenti DATASET:
 - https://docs.google.com/spreadsheets/d/1XcuUL-81jnoJ4vW1WogBJ4tqqYjxEFSsT4wHlPFewlw/edit?usp=share_link
 
 DASHBOARD:
-
+https://lookerstudio.google.com/reporting/8ce13994-5342-4a58-9f14-bb9bc4f90c2c
 
 SCELTA GRAFICA:
 La scelta di usare i colori blu per il sonno (colore canonico per il sonno) con gradazioni differenti in base alla "profondità"
@@ -12,7 +12,8 @@ invece le varie fasi del sonno.
 
 INFO:
 La presente analisi dati è partita con un dataset di analisi del sonno prodotta da uno smartwatch (AW Series 8), pertanto i dati potrebbero essere incorretti 
-per imprecisione dello strumento, incorretto allacciamento dell'orologio al polso ecc.
+per imprecisione dello strumento, incorretto allacciamento dell'orologio al polso ecc. Infatti a livello medico si usano strumenti estremamente più complessi e
+completi.
 
 Inoltre, per maggiore chiarezza, sono stati usati i seguenti articoli:
 1) https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/p/polisonnografia-esami-di-accertamento#perché-si-esegue​
@@ -31,3 +32,6 @@ ha mostrato invece una leggera correlazione negativa, all'aumentare delle ore do
 
 - Regolarità: Un sonno regolare è fondamentale per affrontare la giornata al meglio. Negli ultimi mesi è stata decisamente migliorata la qualità del 
 sonno. Si suggerisce di proseguire su quella strada, così da evitare variazioni troppo brusche.
+
+SCELTA GRAFICI:
+La scelta dei grafici si basa sugli obiettivi posti a inizio analisi, quindi distribuzione, composizione del sonno e regolarità.
