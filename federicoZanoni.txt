@@ -1,2 +1,33 @@
+Sono stati usati i seguenti DATASET:
+- https://docs.google.com/spreadsheets/d/17NBXc60Rop6f4sVtOd33WRj5AykxLyoTigKwA6dWEKY/edit?usp=share_link
+- https://docs.google.com/spreadsheets/d/1XcuUL-81jnoJ4vW1WogBJ4tqqYjxEFSsT4wHlPFewlw/edit?usp=share_link
+
+DASHBOARD:
+
+
 SCELTA GRAFICA:
-La scelta di usare 
+La scelta di usare i colori blu per il sonno (colore canonico per il sonno) con gradazioni differenti in base alla "profondità"
+(per esempio il sonno profondo sarà più scuro, al contrario la REM azzurrino) e l'arancione come veglia. I rettangoli rappresentano 
+invece le varie fasi del sonno.
+
+INFO:
+La presente analisi dati è partita con un dataset di analisi del sonno prodotta da uno smartwatch (AW Series 8), pertanto i dati potrebbero essere incorretti 
+per imprecisione dello strumento, incorretto allacciamento dell'orologio al polso ecc.
+
+Inoltre, per maggiore chiarezza, sono stati usati i seguenti articoli:
+1) https://www.issalute.it/index.php/la-salute-dalla-a-alla-z-menu/p/polisonnografia-esami-di-accertamento#perché-si-esegue​
+2) Pagina informativa di Apple salute sulle fasi del sonno
+
+CONCLUSIONI:
+Questa analisi ha permesso di approfondire diversi punti circa il sonno e le sue fasi, in particolare:
+
+- Composizione: La maggior parte delle ore vengono passate nella fase principale che rappresenta spesso una fetta superiore al 50% del totale. 
+Seguono la fase REM e il sonno profondo. Un buon bilanciamento tra queste fasi è cruciale affinché il nostro corpo rimanga in salute.
+
+- Distribuzione: Abbiamo visto come il sonno principale correli molto bene con il totale delle ore dormite, questo vorrà dire che se diminuiamo 
+il numero di ore dormite, diminuirà il numero di ore di sonno principale. Allo stesso modo per la fase REM. Al contrario il sonno profondo ha mostrato 
+un comportamento differente, quindi sembra essere meno influenzato dal numero di ore dormite, sebbene mantenga una correlazione positiva. La veglia 
+ha mostrato invece una leggera correlazione negativa, all'aumentare delle ore dormite, tende a diminuire il numero di ore svegli.
+
+- Regolarità: Un sonno regolare è fondamentale per affrontare la giornata al meglio. Negli ultimi mesi è stata decisamente migliorata la qualità del 
+sonno. Si suggerisce di proseguire su quella strada, così da evitare variazioni troppo brusche.
